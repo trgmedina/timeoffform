@@ -1,0 +1,20 @@
+{
+  "name": "hogsalt",
+  "version": "1.0.0",
+  "description": "package.json",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trgmedina/timeoffform.git"
+  },
+  "author": "Theresa Medina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trgmedina/timeoffform/issues"
+  },
+  "homepage": "https://github.com/trgmedina/timeoffform#readme"
+}
