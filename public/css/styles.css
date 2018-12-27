@@ -1,0 +1,56 @@
+body {
+	background-color: #000;
+	color: #ebdcc0;
+}
+
+.jumbotron {
+	background-color: #191919;
+	border-color: #cbcbcb;
+
+}
+
+.container {
+	text-align: center;
+}
+
+.request-form {
+	display: inline-block;
+	background-color: #191919;
+	padding-top: 12px;
+	border: 1px #ebdcc0 solid;
+	border-radius: 10px;
+	margin-bottom: 40px;
+}
+
+.form-content {
+	text-align: left;
+	padding: 10px;
+}
+
+#submit-button {
+	text-align: center;
+	padding: 10px;
+}
+
+.submit {
+	background-color: #ebdcc0;
+}
+
+.current-requests {
+	margin: 100px;
+	width: 100%;
+}
+
+.timeoff-request {
+	margin-bottom: 14px;
+	border-color: #ebdcc0;
+}
+
+.card-header {
+	color: #cbcbcb;
+}
+
+.card-body {
+	text-align: left;
+	background-color: #191919;
+}
