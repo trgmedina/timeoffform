@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/trgmedina/timeoffform/issues"
   },
-  "homepage": "https://github.com/trgmedina/timeoffform#readme"
+  "homepage": "https://github.com/trgmedina/timeoffform#readme",
+  "dependencies": {
+    "express": "*",
+    "body-parser":"*"
+  }
 }
