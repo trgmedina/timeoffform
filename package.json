@@ -21,8 +21,8 @@
   },
   "homepage": "https://github.com/trgmedina/timeoffform#readme",
   "dependencies": {
-    "express": "*",
-    "body-parser": "*",
-    "sequelize": "*"
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "sequelize": "^4.42.0"
   }
 }
