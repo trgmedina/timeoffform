@@ -1,6 +1,9 @@
 {
   "name": "hogsalt",
   "version": "1.0.0",
+  "engines": {
+    "node": "10.14.2"
+  },
   "description": "package.json",
   "main": "server.js",
   "scripts": {
