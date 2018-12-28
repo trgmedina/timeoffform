@@ -21,6 +21,9 @@ app.use(express.static("./public"));
 //Routes
 require("./routes/html-routes.js")(app);
 require("./routes/api-routes.js")(app);
+app.get("/", function(req, res) {
+    res.sendFile(path.join(__dirname, "public/form.html"));
+  });
 
 //Syncing sequelize models and then starting express app
 db.sequelize.sync({ force: true }).then(function() {
