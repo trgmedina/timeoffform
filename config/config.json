@@ -1,7 +1,7 @@
 {
   "development": {
     "username": "root",
-    "password": "trgm62290",
+    "password": null,
     "database": "timeoff_requests_db",
     "host": "127.0.0.1",
     "dialect": "mysql"
